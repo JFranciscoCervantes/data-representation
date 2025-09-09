@@ -1,0 +1,5 @@
+{
+  "name": "Visualizador de Medios",
+  "description": "Una herramienta para entender cómo las imágenes, videos y audio se representan como datos numéricos.",
+  "requestFramePermissions": []
+}
