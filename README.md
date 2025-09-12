@@ -1,84 +1,62 @@
-# Media Visualization Tool 📊
+# Herramienta de Visualización de Medios 📊
 
-*A dynamic web application for visualizing data representation (image, video, and audio), built with React and Vite. This project was developed with significant assistance from AI Studio by Google.*
+Esta aplicación web dinámica para visualizar la representación de datos (imagen, video y audio), construida con React y Vite.
 
----
+**[➡️ Ver Demo en Vivo](https://jfranciscocervantes.github.io/data-representation/)**
 
-**[➡️ Live Demo Here](https://jfranciscocervantes.github.io/data-representation/)**
+-----
 
----
+## 📖 Acerca del Proyecto
 
+Esta aplicación proporciona una interfaz interactiva para visualizar y explorar diversos tipos de medios. Aprovecha tecnologías web modernas para ofrecer una experiencia de usuario rápida y receptiva.
 
-## 🚀 Project Overview
+El proceso de desarrollo fue una colaboración entre la dirección creativa y las potentes capacidades de **AI Studio de Google** para la generación de código, depuración y explicación de conceptos.
 
-This application provides an interactive interface to visualize and explore various types of media. It leverages modern web technologies to deliver a fast and responsive user experience. The development process was a partnership between my creative direction and the powerful code generation, debugging, and explanation capabilities of **AI Studio by Google**.
+-----
 
----
+### ✨ Características Principales
 
-## ✨ Key Features
+  * **Interfaz de Usuario Interactiva:** Una interfaz de usuario limpia y moderna construida con React.
+  * **Contenido Dinámico:** Obtiene y muestra datos de medios desde una fuente externa.
+  * **Diseño Responsivo:** Se adapta a dispositivos de escritorio y móviles.
+  * **Rendimiento Rápido:** Construido con Vite para un proceso de desarrollo y compilación ultrarrápido.
 
-* **Interactive UI:** A clean and modern user interface built with React.
-* **Dynamic Content:** Fetches and displays media data from an external source.
-* **Responsive Design:** Looks great on both desktop and mobile devices.
-* **Fast Performance:** Built with Vite for a lightning-fast development and build process.
+### 🛠️ Construido Con
 
----
+  * [React](https://reactjs.org/)
+  * [Vite](https://vitejs.dev/)
+  * [GitHub Pages](https://pages.github.com/)
+  * Asistente de desarrollo: [AI Studio de Google](https://aistudio.google.com/)
 
-## 🤖 Built with AI Assistance
+-----
 
-This project heavily utilized **AI Studio by Google** as a development partner. Here's how it helped:
+## 📜 Licencia
 
-* **Code Generation:** Generated boilerplate code for React components and utility functions.
-* **Debugging:** Assisted in identifying and resolving complex bugs, such as configuration errors and runtime issues.
-* **Concept Explanation:** Provided clear, step-by-step explanations for topics like deployment, Git authentication, and Vite configuration.
-* **Refactoring:** Suggested improvements to code structure and logic for better readability and performance.
+Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE.txt` para más información.
 
----
+Copyright (c) 2025, Francisco Cervantes
 
-## 🛠️ Technologies Used
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-* **Front-End:** [React](https://reactjs.org/), [Vite](https://vitejs.dev/)
-* **Styling:** CSS Modules / Tailwind CSS *(<- Choose one or remove)*
-* **Deployment:** [GitHub Pages](https://pages.github.com/)
-* **Development Partner:** [AI Studio by Google](https://aistudio.google.com/)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
----
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-## ⚙️ Setup and Installation
+-----
 
-To run this project locally, follow these steps:
+## ✍️ Autor
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/jfranciscocervantes/data-representation.git](https://github.com/jfranciscocervantes/data-representation.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd data-representation
-    ```
-
-3.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4.  **Create a `.env` file** in the root of the project and add your API keys:
-    ```
-    GEMINI_API_KEY="your_api_key_here"
-    ```
-
-5.  **Start the development server:**
-    ```bash
-    npm run dev
-    ```
-    The application will be available at `http://localhost:5173`.
-
----
-
-## 🚀 Deployment
-
-This application is deployed on GitHub Pages. The `gh-pages` package is used to automate the build and deployment process. To deploy your own version, simply run:
-
-```bash
-npm run deploy
+  * **Francisco Cervantes**
+  * **Fecha de última actualización:** 12 de septiembre de 2025
